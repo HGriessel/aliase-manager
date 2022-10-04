@@ -11,7 +11,7 @@ exit_on_error() {
     fi
 }
 
-#TODO add singel aliase to specfic aliase file
+#TODO add single aliase to specfic aliase file
 #generate_ranmdom_port_range(){}
 #remove_spec_char(){}
 #remove_space_char(){}
